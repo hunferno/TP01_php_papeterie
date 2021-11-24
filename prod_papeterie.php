@@ -1,3 +1,7 @@
+<?php
+$page = 'prod_papeterie'
+?>
+
 <!DOCTYPE html>
 <!--
  * @author Didier Bonneau

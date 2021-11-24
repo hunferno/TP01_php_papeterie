@@ -1,3 +1,7 @@
+<?php
+$page = 'accueil'
+?>
+
 <!DOCTYPE html>
 <!--
  * @author Didier Bonneau

@@ -1,3 +1,7 @@
+<?php
+$page = 'prod_ecriture'
+?>
+
 <!DOCTYPE html>
 <!--
  * @author Didier Bonneau
