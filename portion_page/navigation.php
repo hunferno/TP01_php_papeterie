@@ -28,9 +28,10 @@
                     }
                     ?> -->
 
-                    <a <?php if ($page == 'prod_papeterie') {
-                            echo ('style="display:none"');
-                        } ?> class="dropdown-item" href="prod_papeterie.php">Papeterie</a>
+
+                    <a class="dropdown-item" <?php if ($page == 'prod_papeterie') {
+                                                    echo ('style="display:none"');
+                                                } ?> href="prod_papeterie.php">Papeterie</a>
                     <a <?php if ($page == 'prod_ecriture') {
                             echo ('style="display:none"');
                         } ?> class="dropdown-item" href="prod_ecriture.php">Ecriture</a>
